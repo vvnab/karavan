@@ -1,7 +1,6 @@
 {
   "name": "karavanservice.ru",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "Виталий Набережный <naberezhniy@taxi21.ru>",
   "license": "MIT",
   "devDependencies": {
